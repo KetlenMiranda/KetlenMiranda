@@ -65,3 +65,16 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
     - Estruturei o back-end utilizando PHP e o framework Laravel.
       
 **Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
+
+
+---
+### **Sistema-Prepara-Enem**
+**Desenvolvedora Java** | *Setembro de 2024*
+
+Projeto desenvolvido para colocar em prática os fundamentos de **Orientação a Objetos (POO)** em um sistema de gerenciamento escolar:
+- **Descrição Técnica:**
+    - Implementei um sistema completo para administração de uma escola de cursos preparatórios online focada no Enem.
+    - Apliquei pilares de **POO** (Encapsulamento, Herança, Polimorfismo e Abstração) para garantir um código estruturado e de fácil manutenção.
+    - Desenvolvi a lógica de negócio utilizando **Java**, focando na organização de dados de cursos, alunos e matrículas.
+
+**Tecnologias:** `Java` | `Git`
