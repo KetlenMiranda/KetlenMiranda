@@ -38,7 +38,7 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
 
 **Tecnologias:** `React` | `TypeScript` | `SCSS` | `Bootstrap`
 
-**🎓 PROJETOS ACADEMICOS
+**🎓 PROJETOS ACADEMICOS**
 
 ### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
 **Projeto de TCC**
