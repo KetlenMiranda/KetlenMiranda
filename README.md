@@ -24,12 +24,16 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 
 ## 🎓 PROJETOS ACADEMICOS
 
-- **[NOME DO TEU SISTEMA AQUI](URL-DO-REPOSITORIO-AQUI)**
+- **[Methodus RSL (Projeto de TCC)](URL-DO-REPOSITORIO-AQUI)**
   - **Descrição:** Explicação curta sobre o problema que o sistema que desenvolveste no **IFG** resolve.
   - **Tecnologias:** React, Node.js, SQL.
   - **Destaque:** [Ex: Foco em código limpo ou performance].
 
-- **[NOME DO SEGUNDO SISTEMA](URL-DO-REPOSITORIO-AQUI)**
-  - **Descrição:** Descrição direta da solução académica.
-  - **Tecnologias:** Java, PHP, MySQL.
-  - **Destaque:** [Ex: Integração eficiente de base de dados].
+- **[Catálogo de livros ](URL-DO-REPOSITORIO-AQUI)**
+  - **Descrição Técnica:**
+  - Desenvolvi uma aplicação web para gestão e catalogação de livros.
+  - Implementei CRUD completo para administração do acervo.
+  - Criei sistema de login e autenticação, protegendo rotas com Middleware.
+  - Construí interfaces responsivas e organizadas com Bootstrap.
+  - Estruturei o back-end utilizando PHP e o framework Laravel.
+  - **Tecnologias:** HTML | CSS | Laravel | PHP | JavaScript | Figma | Bootstrap | Git.
