@@ -22,16 +22,14 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 | :---: | :---: | :---: | :---: |
 | **Docker** | **Git** | **GitHub** | **VSCode** |
 
-
 ## 🎓 PROJETOS ACADEMICOS
-Aqui estão os projetos de destaque que desenvolvi durante minha formação em ADS, onde foquei em código limpo e arquitetura sólida:
 
-- **[Nome do seu TCC ou Projeto Principal]**
-  - **O que faz:** Descrição curta e direta da solução que você criou.
-  - [cite_start]**Tecnologias:** React, Node.js, PostgreSQL[cite: 193].
-  - [cite_start]**Destaque:** Implementação de uma API escalável ou melhoria de performance do sistema.
+- **[NOME DO TEU SISTEMA AQUI](URL-DO-REPOSITORIO-AQUI)**
+  - **Descrição:** Explicação curta sobre o problema que o sistema que desenvolveste no **IFG** resolve.
+  - **Tecnologias:** React, Node.js, SQL.
+  - **Destaque:** [Ex: Foco em código limpo ou performance].
 
-- **[Nome de outro Projeto de Disciplina]**
-  - **O que faz:** Explicação rápida do problema que o sistema resolveu.
-  - [cite_start]**Tecnologias:** Java, MySQL, PHP[cite: 193].
-  - [cite_start]**Destaque:** Foco em lógica de back-end e integração eficiente de banco de dados[cite: 194].
+- **[NOME DO SEGUNDO SISTEMA](URL-DO-REPOSITORIO-AQUI)**
+  - **Descrição:** Descrição direta da solução académica.
+  - **Tecnologias:** Java, PHP, MySQL.
+  - **Destaque:** [Ex: Integração eficiente de base de dados].
