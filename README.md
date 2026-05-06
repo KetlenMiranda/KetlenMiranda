@@ -37,7 +37,7 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
 - Estruturei o projeto para servir como uma vitrine profissional dos meus trabalhos e evolução técnica.
 
 **Tecnologias:** `React` | `TypeScript` | `SCSS` | `Bootstrap`
-
+---
 **🎓 PROJETOS ACADEMICOS**
 
 ### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
