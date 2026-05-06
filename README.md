@@ -22,7 +22,22 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 | :---: | :---: | :---: | :---: |
 | **Docker** | **Git** | **GitHub** | **VSCode** |
 
-## 🎓 PROJETOS ACADEMICOS
+## PROJETOS
+
+## 🚀 PROJETOS PESSOAIS
+
+### **[Portfólio Pessoal](URL-DO-REPOSITORIO-AQUI)**
+**Desenvolvedora Full Stack**
+
+Página desenvolvida para apresentar meus projetos e competências técnicas, focando em uma interface moderna e responsiva:
+
+- Desenvolvi a aplicação utilizando **React** e **TypeScript** para garantir um código tipado e seguro.
+- Apliquei **SCSS** e **Bootstrap** para criar uma estilização personalizada e totalmente adaptável a diferentes dispositivos.
+- Estruturei o projeto para servir como uma vitrine profissional dos meus trabalhos e evolução técnica.
+
+**Tecnologias:** `React` | `TypeScript` | `SCSS` | `Bootstrap`
+
+**🎓 PROJETOS ACADEMICOS
 
 ### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
 **Projeto de TCC**
