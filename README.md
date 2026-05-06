@@ -22,9 +22,10 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 | :---: | :---: | :---: | :---: |
 | **Docker** | **Git** | **GitHub** | **VSCode** |
 
-## PROJETOS
 
-## 🚀 PROJETOS PESSOAIS
+## 🚀 PROJETOS
+
+**PROJETOS PESSOAIS**
 
 ### **[Portfólio Pessoal](URL-DO-REPOSITORIO-AQUI)**
 **Desenvolvedora Full Stack**
