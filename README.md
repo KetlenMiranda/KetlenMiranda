@@ -27,7 +27,7 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 
 **👤PROJETOS PESSOAIS**
 
-### **[Portfólio Pessoal](URL-DO-REPOSITORIO-AQUI)**
+### **[Portfólio Pessoal](https://ketlen.overnightgames.com.br/)**
 **Desenvolvedora Full Stack**
 
 Página desenvolvida para apresentar meus projetos e competências técnicas, focando em uma interface moderna e responsiva:
