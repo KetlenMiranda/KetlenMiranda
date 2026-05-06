@@ -42,6 +42,7 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
 
 ### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
 **Projeto de TCC**
+
 **🔒 Nota: O repositório deste projeto encontra-se privado devido ao processo de patenteamento da solução.**
   - **Descrição Técnica:**
     - Desenvolvi aplicação web para auxiliar pesquisadores na Revisão Sistemática da Literatura baseada na metodologia de Barbara Kitchenham.
