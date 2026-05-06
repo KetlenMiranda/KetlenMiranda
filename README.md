@@ -25,7 +25,7 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 
 ## 🚀 PROJETOS
 
-**PROJETOS PESSOAIS**
+**PROJETOS PESSOAIS 👩🏾‍🦱**
 
 ### **[Portfólio Pessoal](URL-DO-REPOSITORIO-AQUI)**
 **Desenvolvedora Full Stack**
@@ -52,7 +52,6 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
 **Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
 
 ---
-
 ### **[Catálogo de livros ](URL-DO-REPOSITORIO-AQUI)**
   - **Descrição Técnica:**
     -  Desenvolvi uma aplicação web para gestão e catalogação de livros.
