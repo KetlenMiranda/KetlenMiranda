@@ -25,7 +25,7 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 ## 🎓 PROJETOS ACADEMICOS
 
 ### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
-**Projeto de TCC **
+**Projeto de TCC**
   - **Descrição Técnica:**
     - Desenvolvi aplicação web para auxiliar pesquisadores na Revisão Sistemática da Literatura baseada na metodologia de Barbara Kitchenham.
     - Realizei a criação de wireframes no Figma e a modelagem do DER do banco de dados.
