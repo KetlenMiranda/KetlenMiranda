@@ -8,20 +8,16 @@ Graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG,
 atuo no desenvolvimento de soluções web completas, integrando Front-end e Back-end.
 Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de desenvolvimento.
 
-### Minha Stack Principal
+## 🚀 O que eu uso no dia a dia
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,html,css" alt="Front-end e Core" />
-</p>
+| ![React](https://skillicons.dev/icons?i=react) | ![NodeJS](https://skillicons.dev/icons?i=nodejs) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js) |
+| :---: | :---: | :---: | :---: |
+| **React** | **Node.js** | **TypeScript** | **JavaScript** |
 
-### Back-end e Banco de Dados
+| ![Java](https://skillicons.dev/icons?i=java) | ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| :---: | :---: | :---: | :---: |
+| **Java** | **PHP** | **MySQL** | **PostgreSQL** |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,postgres" alt="Back-end e DB" />
-</p>
-
-### Ferramentas e Outros
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Ferramentas" />
-</p>
+| ![Docker](https://skillicons.dev/icons?i=docker) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
+| :---: | :---: | :---: | :---: |
+| **Docker** | **Git** | **GitHub** | **VSCode** |
