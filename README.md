@@ -31,9 +31,9 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 
 - **[Catálogo de livros ](URL-DO-REPOSITORIO-AQUI)**
   - **Descrição Técnica:**
-  - Desenvolvi uma aplicação web para gestão e catalogação de livros.
-  - Implementei CRUD completo para administração do acervo.
-  - Criei sistema de login e autenticação, protegendo rotas com Middleware.
-  - Construí interfaces responsivas e organizadas com Bootstrap.
-  - Estruturei o back-end utilizando PHP e o framework Laravel.
+    -  Desenvolvi uma aplicação web para gestão e catalogação de livros.
+    - Implementei CRUD completo para administração do acervo.
+    - Criei sistema de login e autenticação, protegendo rotas com Middleware.
+    - Construí interfaces responsivas e organizadas com Bootstrap.
+    - Estruturei o back-end utilizando PHP e o framework Laravel.
   - **Tecnologias:** HTML | CSS | Laravel | PHP | JavaScript | Figma | Bootstrap | Git.
