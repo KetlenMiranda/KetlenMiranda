@@ -21,3 +21,17 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 | ![Docker](https://skillicons.dev/icons?i=docker) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
 | :---: | :---: | :---: | :---: |
 | **Docker** | **Git** | **GitHub** | **VSCode** |
+
+
+## 🎓 PROJETOS ACADEMICOS
+Aqui estão os projetos de destaque que desenvolvi durante minha formação em ADS, onde foquei em código limpo e arquitetura sólida:
+
+- **[Nome do seu TCC ou Projeto Principal]**
+  - **O que faz:** Descrição curta e direta da solução que você criou.
+  - [cite_start]**Tecnologias:** React, Node.js, PostgreSQL[cite: 193].
+  - [cite_start]**Destaque:** Implementação de uma API escalável ou melhoria de performance do sistema.
+
+- **[Nome de outro Projeto de Disciplina]**
+  - **O que faz:** Explicação rápida do problema que o sistema resolveu.
+  - [cite_start]**Tecnologias:** Java, MySQL, PHP[cite: 193].
+  - [cite_start]**Destaque:** Foco em lógica de back-end e integração eficiente de banco de dados[cite: 194].
