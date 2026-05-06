@@ -25,7 +25,7 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 
 ## 🚀 PROJETOS
 
-**PROJETOS PESSOAIS 👩🏾‍🦱**
+**👤PROJETOS PESSOAIS**
 
 ### **[Portfólio Pessoal](URL-DO-REPOSITORIO-AQUI)**
 **Desenvolvedora Full Stack**
