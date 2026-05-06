@@ -52,7 +52,7 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
 **Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
 
 ---
-### **[Catálogo de livros ]([(https://github.com/KetlenMiranda/catalogo-de-livros])**
+### **[Catálogo de livros ]([https://github.com/KetlenMiranda/catalogo-de-livros])**
   - **Descrição Técnica:**
     -  Desenvolvi uma aplicação web para gestão e catalogação de livros.
     - Implementei CRUD completo para administração do acervo.
