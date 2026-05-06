@@ -8,7 +8,7 @@ Graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG,
 atuo no desenvolvimento de soluções web completas, integrando Front-end e Back-end.
 Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de desenvolvimento.
 
-## 🚀 🛠️ Ferramentas
+## 🛠️ Ferramentas
 
 | ![React](https://skillicons.dev/icons?i=react) | ![NodeJS](https://skillicons.dev/icons?i=nodejs) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js) |
 | :---: | :---: | :---: | :---: |
