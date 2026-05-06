@@ -44,4 +44,5 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
     - Criei sistema de login e autenticação, protegendo rotas com Middleware.
     - Construí interfaces responsivas e organizadas com Bootstrap.
     - Estruturei o back-end utilizando PHP e o framework Laravel.
+      
 **Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
