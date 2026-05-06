@@ -68,7 +68,7 @@ Página desenvolvida para apresentar meus projetos e competências técnicas, fo
 
 
 ---
-### **Sistema-Prepara-Enem**
+### **[Sistema-Prepara-Enem](https://github.com/KetlenMiranda/Sistema-Prepara-Enem)**
 **Desenvolvedora Java** | *Setembro de 2024*
 
 Projeto desenvolvido para colocar em prática os fundamentos de **Orientação a Objetos (POO)** em um sistema de gerenciamento escolar:
