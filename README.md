@@ -26,13 +26,14 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 
 ### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
 **Projeto de TCC **
-  - Desenvolvi aplicação web para auxiliar pesquisadores na Revisão Sistemática da Literatura baseada na metodologia de Barbara Kitchenham[cite: 581].
-  - Realizei a criação de wireframes no **Figma** e a modelagem do DER do banco de dados[cite: 582].
-  - Implementei CRUDs completos, sistema de autenticação e proteção de rotas com **Middleware**[cite: 583].
-  - Construí interfaces responsivas e organizadas utilizando **Bootstrap**[cite: 584].
-  - Estruturei o back-end seguindo a arquitetura **MVC** com **Laravel** e **MySQL**[cite: 585].
+  - **Descrição Técnica:**
+    - Desenvolvi aplicação web para auxiliar pesquisadores na Revisão Sistemática da Literatura baseada na metodologia de Barbara Kitchenham.
+    - Realizei a criação de wireframes no Figma e a modelagem do DER do banco de dados.
+    - Implementei CRUDs completos, sistema de autenticação e proteção de rotas com Middleware.
+    - Construí interfaces responsivas e organizadas utilizando Bootstrap.
+    - Estruturei o back-end seguindo a arquitetura MVC com Laravel e MySQL.
 
-**Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | [cite_start]`Git` [cite: 586]
+**Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
 
 ---
 
@@ -43,4 +44,4 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
     - Criei sistema de login e autenticação, protegendo rotas com Middleware.
     - Construí interfaces responsivas e organizadas com Bootstrap.
     - Estruturei o back-end utilizando PHP e o framework Laravel.
-  - **Tecnologias:** HTML | CSS | Laravel | PHP | JavaScript | Figma | Bootstrap | Git.
+**Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
