@@ -2,4 +2,4 @@
   <img src="ketlen.jpg" width="900" style="border-radius: 50%;">
 </p>
 
-# 👋 Olá, eu sou a Ketlen!
+# Oii, eu sou a Ketlen! ✨🖥️
