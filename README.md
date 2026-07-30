@@ -18,9 +18,9 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 | :---: | :---: | :---: | :---: |
 | **Java** | **PHP** | **MySQL** | **PostgreSQL** |
 
-| ![Docker](https://skillicons.dev/icons?i=docker) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
 | :---: | :---: | :---: | :---: |
-| **Docker** | **Git** | **GitHub** | **VSCode** |
+| **Git** | **GitHub** | **VSCode** |
 
 
 ## 🚀 PROJETOS
