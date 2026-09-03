@@ -14,9 +14,9 @@ Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de d
 | :---: | :---: | :---: | :---: |
 | **React** | **Node.js** | **TypeScript** | **JavaScript** |
 
-| ![Java](https://skillicons.dev/icons?i=java) | ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
 | :---: | :---: | :---: | :---: |
-| **Java** | **PHP** | **MySQL** | **PostgreSQL** |
+| **PHP** | **MySQL** | **PostgreSQL** |
 
 | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
 | :---: | :---: | :---: |
