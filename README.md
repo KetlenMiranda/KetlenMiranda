@@ -1,80 +1,104 @@
 <p align="center">
-  <img src="ketlen.jpg" width="900" style="border-radius: 50%;">
+  <img src="ketlen.jpg" width="250" alt="Foto de Ketlen Miranda">
 </p>
 
-# Oiie, eu sou a Ketlen! ✨🖥️
+<h1 align="center">Oiie, eu sou a Ketlen! ✨🖥️</h1>
 
-Graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG, 
-atuo no desenvolvimento de soluções web completas, integrando Front-end e Back-end.
-Meu objetivo é criar sistemas eficientes, utilizando as melhores práticas de desenvolvimento.
+<p align="center">
+  Graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG.
+</p>
 
-## 🛠️ Ferramentas
+Atuo no desenvolvimento de soluções web, integrando **Front-end** e **Back-end**.  
+Meu objetivo é criar sistemas eficientes, responsivos e bem estruturados, utilizando boas práticas de desenvolvimento.
 
-| ![React](https://skillicons.dev/icons?i=react) | ![NodeJS](https://skillicons.dev/icons?i=nodejs) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js) |
+## 🛠️ Tecnologias e ferramentas
+
+| ![React](https://skillicons.dev/icons?i=react) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) |
 | :---: | :---: | :---: | :---: |
-| **React** | **Node.js** | **TypeScript** | **JavaScript** |
+| **React** | **TypeScript** | **JavaScript** | **Tailwind CSS** |
 
-| ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| ![PHP](https://skillicons.dev/icons?i=php) | ![Laravel](https://skillicons.dev/icons?i=laravel) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
 | :---: | :---: | :---: | :---: |
-| **PHP** | **MySQL** | **PostgreSQL** |
+| **PHP** | **Laravel** | **MySQL** | **PostgreSQL** |
 
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
-| :---: | :---: | :---: |
-| **Git** | **GitHub** | **VSCode** |
+| ![C#](https://skillicons.dev/icons?i=cs) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Figma](https://skillicons.dev/icons?i=figma) |
+| :---: | :---: | :---: | :---: |
+| **C#** | **Node.js** | **Bootstrap** | **Figma** |
 
+| ![Unity](https://skillicons.dev/icons?i=unity) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+| :---: | :---: | :---: | :---: |
+| **Unity** | **Blender** | **Git** | **GitHub** |
 
-## 🚀 PROJETOS
+## 🚀 Projetos
 
-**👤PROJETOS PESSOAIS**
+### 👤 Projetos pessoais
 
-### **[Portfólio Pessoal](https://ketlen.overnightgames.com.br/)**
-**Desenvolvedora Full Stack**
+### [Portfólio pessoal](https://ketlen.overnightgames.com.br/)
 
-Página desenvolvida para apresentar meus projetos e competências técnicas, focando em uma interface moderna e responsiva:
+**Desenvolvimento Front-end**
 
-- Desenvolvi a aplicação utilizando **React** e **TypeScript** para garantir um código tipado e seguro.
-- Apliquei **SCSS** e **Bootstrap** para criar uma estilização personalizada e totalmente adaptável a diferentes dispositivos.
-- Estruturei o projeto para servir como uma vitrine profissional dos meus trabalhos e evolução técnica.
+Página desenvolvida para apresentar meus projetos, minha formação e minhas competências técnicas, com foco em uma interface moderna e responsiva.
 
- **Tecnologias:** `React` | `TypeScript` | `SCSS` | `Bootstrap`.
- 
----
+- Desenvolvi a aplicação utilizando **React** e **TypeScript**.
+- Criei componentes reutilizáveis para melhorar a organização e a manutenção do código.
+- Utilizei **Tailwind CSS** para desenvolver uma interface personalizada e responsiva.
+- Implementei uma navegação adaptada para dispositivos móveis e computadores.
+- Realizei a publicação do projeto utilizando o **GitHub Pages**.
 
-**🎓 PROJETOS ACADEMICOS**
-
-### **[Methodus RSL](URL-DO-REPOSITORIO-AQUI)**
-**Projeto de TCC**
-
-**🔒 Nota: O repositório deste projeto encontra-se privado devido ao processo de patenteamento da solução.**
-  - **Descrição Técnica:**
-    - Desenvolvi aplicação web para auxiliar pesquisadores na Revisão Sistemática da Literatura baseada na metodologia de Barbara Kitchenham.
-    - Realizei a criação de wireframes no Figma e a modelagem do DER do banco de dados.
-    - Implementei CRUDs completos, sistema de autenticação e proteção de rotas com Middleware.
-    - Construí interfaces responsivas e organizadas utilizando Bootstrap.
-    - Estruturei o back-end seguindo a arquitetura MVC com Laravel e MySQL.
-
-**Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
+**Tecnologias:** `React` | `TypeScript` | `Tailwind CSS` | `HTML` | `GitHub Pages`
 
 ---
-### **[Catálogo de livros](https://github.com/KetlenMiranda/catalogo-de-livros)** 
-- **Descrição Técnica:**
-    -  Desenvolvi uma aplicação web para gestão e catalogação de livros.
-    - Implementei CRUD completo para administração do acervo.
-    - Criei sistema de login e autenticação, protegendo rotas com Middleware.
-    - Construí interfaces responsivas e organizadas com Bootstrap.
-    - Estruturei o back-end utilizando PHP e o framework Laravel.
-      
-**Tecnologias:** `HTML` | `CSS` | `Laravel` | `PHP` | `JavaScript` | `Figma` | `Bootstrap` | `Git`.
 
+### 🎓 Projetos acadêmicos
+
+### Methodus RSL
+
+**Trabalho de Conclusão de Curso — TCC**
+
+> 🔒 **O repositório deste projeto é privado devido ao processo de proteção da solução.**
+
+Aplicação web desenvolvida para auxiliar pesquisadores na realização de uma **Revisão Sistemática da Literatura**, seguindo a metodologia de Barbara Kitchenham.
+
+- Desenvolvi os wireframes das interfaces utilizando o **Figma**.
+- Realizei a modelagem do banco de dados.
+- Implementei operações de cadastro, consulta, edição e exclusão.
+- Desenvolvi um sistema de autenticação e proteção de rotas com Middleware.
+- Construí interfaces responsivas e organizadas utilizando Bootstrap.
+- Estruturei o Back-end seguindo a arquitetura MVC do Laravel.
+- Implementei recursos para auxiliar no planejamento, na condução e no relato da revisão.
+- Desenvolvi a geração de relatórios com informações e resultados da pesquisa.
+
+**Tecnologias:** `Laravel` | `PHP` | `MySQL` | `JavaScript` | `HTML` | `CSS` | `Bootstrap` | `Figma` | `Git`
 
 ---
-### **[Sistema-Prepara-Enem](https://github.com/KetlenMiranda/Sistema-Prepara-Enem)**
-**Desenvolvedora Java** | *Setembro de 2024*
 
-Projeto desenvolvido para colocar em prática os fundamentos de **Orientação a Objetos (POO)** em um sistema de gerenciamento escolar:
-- **Descrição Técnica:**
-    - Implementei um sistema completo para administração de uma escola de cursos preparatórios online focada no Enem.
-    - Apliquei pilares de **POO** (Encapsulamento, Herança, Polimorfismo e Abstração) para garantir um código estruturado e de fácil manutenção.
-    - Desenvolvi a lógica de negócio utilizando **Java**, focando na organização de dados de cursos, alunos e matrículas.
+### [Jardim Interativo](LINK-DA-VERSAO-JOGAVEL)
 
-**Tecnologias:** `Java` | `Git`
+**Desenvolvimento de ambiente 3D interativo**
+
+> 🎮 **Uma versão jogável está disponível para demonstração. O repositório permanece privado para preservar os arquivos-fonte, a estrutura interna do projeto e os recursos utilizados no desenvolvimento.**
+
+Projeto acadêmico desenvolvido para explorar conceitos de modelagem 3D, programação e criação de ambientes interativos.
+
+- Desenvolvi um jardim virtual tridimensional utilizando a Unity.
+- Utilizei **C#** para programar as interações e os comportamentos do ambiente.
+- Implementei recursos de navegação, movimentação e controle de câmera.
+- Criei animações e efeitos para elementos como fonte, borboletas e chuva.
+- Utilizei o Blender para criar e editar elementos tridimensionais.
+- Trabalhei na otimização do ambiente para melhorar o desempenho da aplicação.
+
+**Tecnologias:** `Unity` | `C#` | `Blender`
+
+---
+
+### [Catálogo de Livros](https://github.com/KetlenMiranda/catalogo-de-livros)
+
+Aplicação web desenvolvida para o gerenciamento e a catalogação de livros.
+
+- Implementei um CRUD completo para administração do acervo.
+- Criei um sistema de login e autenticação.
+- Protegi as rotas utilizando Middleware.
+- Construí interfaces responsivas e organizadas com Bootstrap.
+- Estruturei o Back-end utilizando PHP e Laravel.
+
+**Tecnologias:** `Laravel` | `PHP` | `MySQL` | `JavaScript` | `HTML` | `CSS` | `Bootstrap` | `Git`
