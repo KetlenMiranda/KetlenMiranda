@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ketlen.jpg" width="250" alt="Foto de Ketlen Miranda">
+  <img src="ketlen.jpg" width="900" style="border-radius: 50%;" alt="Foto de Ketlen Miranda">
 </p>
 
 <h1 align="center">Oiie, eu sou a Ketlen! ✨🖥️</h1>
@@ -21,9 +21,9 @@ Meu objetivo é criar sistemas eficientes, responsivos e bem estruturados, utili
 | :---: | :---: | :---: | :---: |
 | **PHP** | **Laravel** | **MySQL** | **PostgreSQL** |
 
-| ![C#](https://skillicons.dev/icons?i=cs) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Figma](https://skillicons.dev/icons?i=figma) |
-| :---: | :---: | :---: | :---: |
-| **C#** | **Node.js** | **Bootstrap** | **Figma** |
+| ![C#](https://skillicons.dev/icons?i=cs) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Figma](https://skillicons.dev/icons?i=figma) |
+| :---: | :---: | :---: |
+| **C#** | **Bootstrap** | **Figma** |
 
 | ![Unity](https://skillicons.dev/icons?i=unity) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
 | :---: | :---: | :---: | :---: |
@@ -72,7 +72,7 @@ Aplicação web desenvolvida para auxiliar pesquisadores na realização de uma 
 
 ---
 
-### [Jardim Interativo](LINK-DA-VERSAO-JOGAVEL)
+### [Jardim Interativo](https://play.unity.com/pt/games/7046d763-aac2-4836-94f8-c0c06e0a75bd/jardim-interativo)
 
 **Desenvolvimento de ambiente 3D interativo**
 
