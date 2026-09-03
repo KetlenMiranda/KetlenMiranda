@@ -9,7 +9,6 @@
 </p>
 
 Atuo no desenvolvimento de soluções web, integrando **Front-end** e **Back-end**.  
-Meu objetivo é criar sistemas eficientes, responsivos e bem estruturados, utilizando boas práticas de desenvolvimento.
 
 ## 🛠️ Tecnologias e ferramentas
 
